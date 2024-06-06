@@ -37,12 +37,18 @@ Junior Developer Loading...
 
 ---
 
+<div align="center">
+
 🔥My GitHub Stats:
+
+---
+
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=Vasilis-D&theme=dark)](https://git.io/streak-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasilis-D&layout=compact&theme=vision-friendly-dark)](https://github.com/Vasilis-D/github-readme-stats)
-
+</div>
+ 
  ---
 
  
