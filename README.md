@@ -9,5 +9,40 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>              
 </div>
+<img src="https://komarev.com/ghpvc/?username=Vasilis-D&color=blue" />
+
 </div>
 
+---
+
+<div align="center">
+ 
+  ### 👨‍💻: About me 
+
+</div>
+
+---
+
+Junior Developer Loading... 
+
+- 👨‍🎓junior Developer Student with a passion for learning. 
+- 💻 Eager to collaborate, and create meaningful applications.
+- 🚀Let’s build something awesome!
+
+⚙️Languages & Tools:
+<div>
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+</div>
+
+---
+
+🔥My GitHub Stats:
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Vasilis-D&theme=dark)](https://git.io/streak-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasilis-D&layout=compact&theme=vision-friendly-dark)](https://github.com/Vasilis-D/github-readme-stats)
+
+ ---
+
+ 
