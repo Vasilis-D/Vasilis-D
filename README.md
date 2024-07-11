@@ -33,7 +33,7 @@ Junior Developer Loading...
 <div>
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img width="30" height="30" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/css-original.svg](http://www.w3.org/2000/svg)" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/css-original.svg" />
 </div>
 
 ---
