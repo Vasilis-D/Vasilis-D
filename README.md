@@ -33,6 +33,7 @@ Junior Developer Loading...
 <div>
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ <img width="30" height="30" src="C:\Users\MotzoGames\Desktop\DATA LABS\githube profile badges" />
 </div>
 
 ---
