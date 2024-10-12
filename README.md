@@ -7,7 +7,7 @@
 
              
 </div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<img src="https://komarev.com/ghpvc/?username=Vasilis-D&color=blue" />
 
 </div>
 
