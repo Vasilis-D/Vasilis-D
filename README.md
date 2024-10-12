@@ -2,7 +2,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnp1OHhxbjJndzEzOTJwNGI4ZDRnYThramY5dzlkenpmcjRuNnRpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OWgDiFQbtizpdLewE5/giphy.gif" width="250" />
 <div>
 <a href="https://www.linkedin.com/in/vasilis-mamakis-59a916309/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linked In" width="200" height="150" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linked In" width="30" height="30" />
 </a>
 
              
@@ -35,6 +35,8 @@ Junior Developer Loading...
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 
 ---
